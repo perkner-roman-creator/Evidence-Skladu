@@ -1,0 +1,26 @@
+﻿# 📦 Skladová Evidence Delphi - Desktop aplikace pro správu skladu, audit operací a pokročilé reporty.
+
+## Desktop Stack
+- **Delphi / Object Pascal** - hlavní jazyk aplikace
+- **VCL/LCL komponenty** - formuláře, gridy a ovládací prvky
+- **SQLite3** - lokální databáze
+- **SQLDB / FireDAC přístup** - databázová vrstva
+
+## ✨ Funkce
+- **CRUD skladových položek** - přidání, úprava, smazání, detail
+- **Kategorie a filtry** - rychlé hledání podle názvu, kódu a kategorie
+- **Sklady a dodavatelé** - rozšířená evidence vazeb
+- **Audit log** - historie změn u položek
+- **Historie cen** - sledování cenových změn
+- **Automatické objednávky** - podpora doplnění zásob
+- **Export/Import CSV** - přenos dat mezi systémy
+- **Export do Excelu** - reporty pro vedení
+- **Záloha databáze** - bezpečnost dat jedním klikem
+- **Statistiky a upozornění** - nízké zásoby, celková hodnota, přehledy
+
+## 📋 Hlavní části
+1. **InventoryApp.dpr** - start desktop aplikace
+2. **MainForm.pas** - hlavní UI a uživatelské akce
+3. **DatabaseModule.pas** - databázové operace a business logika
+4. **WarehouseForm/SupplierForm** - správa skladů a dodavatelů
+5. **StatisticsForm.pas** - statistiky a přehledy

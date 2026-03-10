@@ -1,0 +1,41 @@
+# Delphi compiled files
+__history/
+__recovery/
+Win32/
+Win64/
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dsk
+*.~*
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+*.stat
+ModelSupport/

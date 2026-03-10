@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="InventoryApp.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="MainForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="56"/>
+        <CursorPos X="97" Y="76"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DatabaseModule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="65"/>
+        <CursorPos X="14" Y="84"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="WarehouseForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="SupplierForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="StatisticsForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormStatistics"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="77"/>
+        <CursorPos X="21" Y="94"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="InventoryApp.lpi"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="72" Y="19"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Lazarus\lcl\interfaces\win32\win32debug.pp"/>
+        <UnitName Value="Win32Debug"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="130"/>
+        <CursorPos X="43" Y="148"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="3595"/>
+        <CursorPos Y="3613"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="23">
+      <Position>
+        <Filename Value="InventoryApp.dpr"/>
+        <Caret Line="26" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.dpr"/>
+        <Caret Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.dpr"/>
+        <Caret Line="19" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="54" Column="26" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.dpr"/>
+        <Caret Line="19" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.dpr"/>
+        <Caret Line="24" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="96" Column="29" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="164" Column="107" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.dpr"/>
+        <Caret Line="24" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="1111" Column="87" TopLine="1093"/>
+      </Position>
+      <Position>
+        <Filename Value="StatisticsForm.pas"/>
+        <Caret Line="94" Column="21" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="242" TopLine="225"/>
+      </Position>
+      <Position>
+        <Filename Value="StatisticsForm.pas"/>
+        <Caret Line="94" Column="21" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.lpi"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="242" TopLine="226"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="85" Column="66" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="DatabaseModule.pas"/>
+        <Caret Line="84" Column="14" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="StatisticsForm.pas"/>
+        <Caret Line="94" Column="21" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="263" Column="38" TopLine="245"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="104" Column="3" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="MainForm.pas"/>
+        <Caret Line="72" Column="15" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Lazarus\lcl\interfaces\win32\win32debug.pp"/>
+        <Caret Line="78" Column="25" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Lazarus\lcl\interfaces\win32\win32debug.pp"/>
+        <Caret Line="128" Column="14" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="InventoryApp.lpi"/>
+        <Caret Line="19" Column="72"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
